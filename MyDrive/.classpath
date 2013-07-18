@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/Users/zhengqin/Downloads/httpcomponents-client-4.2-1.2/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="/Users/zhengqin/Downloads/httpcomponents-client-4.2-1.2/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/zhengqin/Downloads/httpcomponents-client-4.2-1.2/lib/fluent-hc-4.2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/zhengqin/Downloads/httpcomponents-client-4.2-1.2/lib/httpclient-4.2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/zhengqin/Downloads/httpcomponents-client-4.2-1.2/lib/httpclient-cache-4.2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/zhengqin/Downloads/httpcomponents-client-4.2-1.2/lib/httpcore-4.2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/zhengqin/Downloads/httpcomponents-client-4.2-1.2/lib/httpmime-4.2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/zhengqin/Downloads/commons-vfs-2.0/commons-vfs2-2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/zhengqin/Downloads/commons-vfs-2.0/commons-vfs2-2.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/zhengqin/Downloads/commons-vfs-2.0/commons-vfs2-2.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/zhengqin/Downloads/commons-vfs-2.0/commons-vfs2-2.0-tests.jar"/>
+	<classpathentry kind="lib" path="/Users/zhengqin/Downloads/commons-vfs-2.0/commons-vfs2-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/zhengqin/Downloads/commons-vfs-2.0/commons-vfs2-examples-2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/zhengqin/Downloads/commons-vfs-2.0/commons-vfs2-examples-2.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/zhengqin/Downloads/commons-vfs-2.0/commons-vfs2-examples-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/zhengqin/Downloads/commons-io-2.4/commons-io-2.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/zhengqin/Downloads/commons-io-2.4/commons-io-2.4-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/zhengqin/Downloads/commons-io-2.4/commons-io-2.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/zhengqin/Downloads/commons-io-2.4/commons-io-2.4-tests.jar"/>
+	<classpathentry kind="lib" path="/Users/zhengqin/Downloads/commons-io-2.4/commons-io-2.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
